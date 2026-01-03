@@ -19,7 +19,7 @@ StopClank is a rogue-lite coding game. Solve algorithm challenges to progress th
 
 ## Getting Started
 
-Go to _____________.com
+Go to www.codevclank.quest
 
 
 ## Frontend (nginx/content)
